@@ -30,4 +30,4 @@ Things you may want to cover:
 
 Below is a screenshot of the homepage of the application.
 
-![publish message](https://raw.githubusercontent.com/imjuoy/Cabinet/master/Screenshot.png)
+![publish message](https://github.com/imjuoy/Cabinet/blob/master/Screenshot.png)
