@@ -21,4 +21,13 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
+# Git clone the application
+
+# Do a bundle install to install all the dependencies.
+
+# "rails server" to start the server and access the app at localhost:3000.
+
+Below is a screenshot of the homepage of the application.
+
+![publish message](https://raw.githubusercontent.com/imjuoy/Cabinet/master/Screenshot.png)
