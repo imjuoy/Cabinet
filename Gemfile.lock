@@ -74,7 +74,7 @@ GEM:wq
     coffee-script-source (1.12.2)
     concurrent-ruby (1.0.5)
     crass (1.0.4)
-    devise (4.4.3)
+    devise (>=4.6.0)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 5.2.2.1, < 6.0)
@@ -217,7 +217,7 @@ DEPENDENCIES
   capybara (>= 2.15, < 4.0)
   chromedriver-helper
   coffee-rails (~> 4.2)
-  devise (~> 4.4, >= 4.4.3)
+  devise (~> 4.4, >= 4.6.0)
   haml (~> 5.0, >= 5.0.4)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
