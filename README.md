@@ -3,7 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+# Do keep checking for dependencies running into security vulnerabilities. That is one of the primary problems with Ruby.
+
+Things you may want to check before running the application:
 
 * Ruby version
 
